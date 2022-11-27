@@ -1,0 +1,11 @@
+requests==2.28.1
+spotipy==2.20.0
+pandas==1.2.4
+dbt-core==1.2.1
+dbt-postgres==1.2.1
+airflow-dbt
+apache-airflow-providers-papermill
+ipykernel
+matplotlib
+scikit-learn
+xgboost
